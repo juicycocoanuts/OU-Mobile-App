@@ -43,9 +43,9 @@ import java.util.ArrayList;
 
 /**
  *
- * The GradesActivity is accessed from the ClassHomeActivity, and displays all
- * of the grades for the selected class from D2L. It is supported by the 
- * GradesData class. When calling an Intent for this class it must be passed an
+ * The RoasterActivity is accessed from the ClassHomeActivity, and displays all
+ * of the students and teachers for the selected class from D2L. It is supported by the 
+ * RosterData class. When calling an Intent for this class it must be passed an
  * integer id specifying which class. (note: this can only pull grades if the 
  * given class ID belongs to the user that is currently logged in).
  * 

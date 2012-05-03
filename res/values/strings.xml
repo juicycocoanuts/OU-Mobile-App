@@ -29,5 +29,6 @@
     <string name="downloadFailed">Download failed</string>
     <string name="failedToGetDLink">Could not get link to file from D2L</string>
     <string name="downloadWaitDiag">Downloading...</string>
+    <string name="rosterUrl" formatted="flase">http://learn.ou.edu/d2l/common/popup/popup.d2l?ou=1782223&queryString=ou=1782223&tabid=2&tabname=All&isalltab=1&gc=&gn=&sort=LastName&sortdir=asc&ulst=286637,111500,98662,51200,125509,306248,291031,291061,121733,127948,105329,65590,140601,12858,133015,127654,5879,84311,101069,128795,289185,123975,106230,111024,120123,119242,40931,105626,135798&footerMsg=&popBodySrc=/d2l/lms/classlist/admin/classlist_print.d2l&popFooterSrc=footer.d2l&width=550&height=580&hasStatusBar=false&hasAutoScroll=true&p=d2l_cntl_bbded17b4db947a0b7fbf7f204ea8021_2</string>
 </resources>
 
